@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MikyJoo/Movie-React/static/css/main.8a2eab9d.chunk.css",
+    "main.js": "/MikyJoo/Movie-React/static/js/main.3cbc17c5.chunk.js",
+    "main.js.map": "/MikyJoo/Movie-React/static/js/main.3cbc17c5.chunk.js.map",
+    "runtime-main.js": "/MikyJoo/Movie-React/static/js/runtime-main.bfb4a342.js",
+    "runtime-main.js.map": "/MikyJoo/Movie-React/static/js/runtime-main.bfb4a342.js.map",
+    "static/js/2.06252648.chunk.js": "/MikyJoo/Movie-React/static/js/2.06252648.chunk.js",
+    "static/js/2.06252648.chunk.js.map": "/MikyJoo/Movie-React/static/js/2.06252648.chunk.js.map",
+    "index.html": "/MikyJoo/Movie-React/index.html",
+    "static/css/main.8a2eab9d.chunk.css.map": "/MikyJoo/Movie-React/static/css/main.8a2eab9d.chunk.css.map",
+    "static/js/2.06252648.chunk.js.LICENSE.txt": "/MikyJoo/Movie-React/static/js/2.06252648.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfb4a342.js",
+    "static/js/2.06252648.chunk.js",
+    "static/css/main.8a2eab9d.chunk.css",
+    "static/js/main.3cbc17c5.chunk.js"
+  ]
+}
