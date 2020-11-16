@@ -7,6 +7,7 @@
     "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^12.2.0",
     "axios": "^0.21.0",
+    "gh-pages": "^3.1.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -38,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/MikyJoo/Movie-React"
+  "homepage": "https://MikyJoo.github.io/Movie-React"
 }
